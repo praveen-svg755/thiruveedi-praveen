@@ -1,0 +1,29 @@
+.popup-nav {
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    background: rgb(1, 1, 22);
+    padding: 2rem;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    animation: slideIn 0.3s ease-in-out;
+}
+
+.popup-nav li {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.popup-nav li a {
+    display: block;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+.popup-nav li::after {
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+}
