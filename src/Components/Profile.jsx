@@ -7,7 +7,7 @@ const Profile = () => {
         <div class="image-div">
             <div class="image">
                 
-                <img  id="profile-img" src="\public\assets\Photos\image.jpg" alt="" />
+                <img  id="profile-img" src="\public\assets\Myimage.jpg" alt="" />
             </div>
             <section id="home">
                 <p id="typing-text">Hi, I'm <span class="web-dev">THIRUVEEDI PRAVEEN</span></p>
