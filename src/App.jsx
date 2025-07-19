@@ -1,5 +1,5 @@
-import React from 'react'
-import Navbar from './Components/Navbar.jsx';
+
+import Navbar from './Components/Navbar';
 import Profile from './Components/Profile'
 import Skills from './Components/Skills'
 import Projects from './Components/Projects'
