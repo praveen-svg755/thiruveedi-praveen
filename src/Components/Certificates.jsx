@@ -1,4 +1,4 @@
-import '../Styles/Certificates.css'
+import '../Styles/certificates.css'
 import '../App.css/'
 
 const Certificates = () => {
