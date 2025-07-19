@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     color: white;
-    background: rgb(1, 1, 22);
+    background: rgb(5, 5, 250);
     line-height: 1.6;
     margin: 0;
 }
@@ -114,7 +114,8 @@ header {
 }
 
 /* Mobile */
-@media (max-width: 768px) {
+
+ {
     .menu-toggle {
         display: block;
     }
