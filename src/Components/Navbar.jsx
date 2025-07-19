@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import '../styles/navbar.css';
 import ReactPopUp from './ReactPopUp';
 
+
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
 
