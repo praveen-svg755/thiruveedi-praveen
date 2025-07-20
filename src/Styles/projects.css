@@ -9,7 +9,7 @@
     
     justify-content: center;
     gap: 2rem;
-    margin: 30px;
+   
 }
 
 .portfolio-item {
@@ -31,5 +31,11 @@
     padding: 0.5rem;
     border-radius: 5px;
     margin-bottom: 1rem;
+}
+@media (max-width: 768px){
+     .portfolio-container {
+    
+    padding: 40px;
+}
 }
 
