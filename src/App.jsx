@@ -1,4 +1,4 @@
-
+import './App.css'
 import Navbar from './Components/Navbar';
 import Profile from './Components/Profile'
 import Skills from './Components/Skills'
@@ -11,7 +11,7 @@ import Exp from './Components/Exp'
 
 const App = () => {
   return (
-    <div>
+    <div className='margin'>
      <Navbar/>
      <Profile/>
      <Skills/>
