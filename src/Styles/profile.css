@@ -1,8 +1,7 @@
 .image-div {
-    display: flex;
-    flex: 6;
     
-   
+    display: flex;
+   place-self: center;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
@@ -39,16 +38,16 @@
 
 
 .web-dev {
-
-    color: black;
+ color: orange;
+    position: relative;
     display: inline-block;
-    width: 0ch;
-    background-color: rgb(255, 255, 255);
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 2px solid rgb(255, 255, 255);
-    animation: typing 4s steps(22) infinite alternate-reverse;
-
+    background: linear-gradient(45deg, orange, orangered, orange);
+    background-size: 200%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shine 2s linear infinite;
+   
 }
 
 
@@ -142,13 +141,9 @@
 }
 
 
-@keyframes typing {
-  from {
-    width: 0ch;
-  }
-  to {
-    width: 22ch;
-  }
+@keyframes shine {
+ 0% { background-position: 0% 100%; }
+    100% { background-position: 200% 0%; }
 }
 
 

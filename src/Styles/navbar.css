@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     color: white;
-    background: rgb(5, 5, 60);
+    background: rgb(0, 0, 42);
     line-height: 1.6;
     margin: 0;
 }
@@ -24,7 +24,7 @@ header {
 .logo {
     text-transform: uppercase;
     font-weight: bold;
-    color: orange;
+    color: #06c232ff;
     font-size: 1.5rem;
     cursor: pointer;
 }
@@ -55,7 +55,7 @@ header {
     bottom: -6px;
     height: 3px;
     width: 0;
-    background-color: orange;
+    background-color: #06c232ff;
     transition: width 0.5s;
 }
 
@@ -70,6 +70,8 @@ header {
     color: white;
     font-size: 1.5rem;
     cursor: pointer;
+    padding: 10px;
+    margin: 0px;
 }
 
 /* Popup Overlay */
@@ -118,6 +120,7 @@ header {
  @media (max-width: 768px){
     .menu-toggle {
         display: block;
+        justify-content: space-between;
     }
 
     .nav-links:not(.popup-nav) {
