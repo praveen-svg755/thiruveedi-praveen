@@ -22,9 +22,7 @@ const Navbar = () => {
                         <li><a href="#home">Home</a></li>
                         <li><a href="#about">About</a></li>
                         <li><a href="#about">Skills</a></li>
-                        <li><a href="#cert">Certificates</a></li>
-                        <li><a href="#exp">Experience</a></li>
-                         <li><a href="#portfolio">Projects</a></li>
+                       
                         <li><a href="#contact">Contact</a></li>
                     </ul>
                 </nav>

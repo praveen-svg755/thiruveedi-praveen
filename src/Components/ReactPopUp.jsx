@@ -13,9 +13,7 @@ const ReactPopUp = ({ toggleMenu }) => {
                 <li><a href="#home" onClick={toggleMenu}>Home</a></li>
                 <li><a href="#about" onClick={toggleMenu}>About</a></li>
                 <li><a href="#about" onClick={toggleMenu}>Skills</a></li>
-                <li><a href="#cert" onClick={toggleMenu}>Certificates</a></li>
-                <li><a href="#exp" onClick={toggleMenu}>Experience</a></li>
-                <li><a href="#portfolio" onClick={toggleMenu}>Porojects</a></li>
+               
                 <li><a href="#contact" onClick={toggleMenu}>Contact</a></li>
             </ul>
         </div>

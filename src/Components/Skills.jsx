@@ -10,39 +10,27 @@ const Skills = () => {
                     <h2>SKILLS</h2>
                     <div class="skills-container">
 
-                        <div class="skills">C</div>
-                        <div class="skills">Python</div>
-                        <div class="skills">Java</div>
-                        <div class="skills">Spring Boot</div>
-                        <div class="skills">JDBC</div>
-                        <div class="skills">Data structures</div>
-
-                        <div class="skills">Html</div>
-                        <div class="skills">css</div>
-                        <div class="skills">JavaScript</div>
-                        <div class="skills">React</div>
-                        <div class="skills">Sql</div>
-                        <div class="skills">Adobe photoshop</div>
-                        <div class="skills">Tailwind css</div>
-                        <div class="skills">bootstrap</div>
+                        <div class="skills">Photo Shop</div>
+                        <div class="skills">adobe </div>
+                        <div class="skills">Camera operating </div>
+                        
 
                     </div>
 
-                    <a href="/assets/resume2.pdf" download class="download-btn">Download Resume / CV</a>
+                    <a href="" download class="download-btn">Download Resume / CV</a>
 
 
                 </div>
                 <div class="about">
                     <h2>ABOUT ME</h2>
                     <p class="about-me">
-                        My name is praveen . I am 20 years old and currently pursuing my B.Tech at Potti
-                        Sriramulu Chalavadi Mallikarjunarao College of Engineering and Technology with a CGPA of 9.1 . I am
-                        from Ganguru, Vijayawada, Andhra Pradesh.
-                        Highly motivated 3rd-year Computer Science student with strong programming, data structures, and
-                        algorithms skills. I aim to contribute to innovative projects and learn from industry leaders
-                        through internship opportunities.  I have a strong interest in Web Development and Artificial
-                        Intelligence. I am actively learning React.js and have worked on projects like an e-commerce
-                        website, weather application, and a to-do list app.
+                      Hello, my name is Thiruveedi Santhosh. I am 19 years old and currently pursuing a degree in Visual Communication at Andhra Loyola College, Vijayawada. From a young age, I have been passionate about creativity and design, which inspired me to build skills in both graphic design and video editing.
+
+Alongside my studies, I have been gaining practical experience as a Graphic and Video Designer at Maranatha Temple, where I create engaging visual content that connects with audiences and enhances communication. This role has helped me develop a strong foundation in design software, video editing tools, and creative storytelling.
+
+I am always eager to learn new techniques and stay updated with the latest trends in the field of media and communication. My goal is to grow as a creative professional, contribute innovative ideas, and build a career where I can combine my skills in visual communication, design, and digital media.
+
+I am from Ganguru, Vijayawada, and I believe my dedication, creativity, and enthusiasm will help me achieve success in the visual communication industry.
                         
                     </p>
                 </div>

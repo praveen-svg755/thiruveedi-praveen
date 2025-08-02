@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    color: white;
-    background: rgb(0, 0, 42);
+    color: rgb(171, 0, 0);
+    background: rgb(84, 0, 0);
     line-height: 1.6;
     margin: 0;
 }
 
 /* Header and Navigation */
 header {
-    background: linear-gradient(135deg, rgb(1, 1, 22), rgb(15, 15, 77));
+    background: linear-gradient(135deg, rgb(0, 0, 0), rgb(0, 0, 0));
     padding: 1rem;
 }
 
@@ -24,7 +24,7 @@ header {
 .logo {
     text-transform: uppercase;
     font-weight: bold;
-    color: #06c232ff;
+    color: rgb(255, 0, 0);
     font-size: 1.5rem;
     cursor: pointer;
 }
@@ -55,7 +55,7 @@ header {
     bottom: -6px;
     height: 3px;
     width: 0;
-    background-color: #06c232ff;
+    background-color: rgb(255, 0, 0);
     transition: width 0.5s;
 }
 

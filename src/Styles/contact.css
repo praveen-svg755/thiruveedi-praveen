@@ -1,5 +1,5 @@
 .contact-div {
-    background: linear-gradient(45deg, #1e3a8a, #00245d);
+    background: linear-gradient(45deg, #000000, #000000);
     padding: 2rem;
     border-radius: 10px;
     position: relative;
@@ -7,11 +7,7 @@
     animation: pulseBackground 8s ease-in-out infinite;
 }
 
-@keyframes pulseBackground {
-    0% { background: linear-gradient(45deg, #000512, #001d4b); }
-    50% { background: linear-gradient(45deg, #00296b, #000512); }
-    100% { background: linear-gradient(45deg, #000512, #00296c); }
-}
+
 
 .social-media {
     display: flex;
@@ -63,7 +59,7 @@ section h2 {
 .form-group textarea {
     width: 100%;
     padding: 0.75rem;
-    border: 2px solid #3b82f6;
+    border: 2px solid #000000;
     border-radius: 5px;
     background: rgba(255, 255, 255, 0.1);
     color: #ffffff;

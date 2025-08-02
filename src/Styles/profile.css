@@ -10,8 +10,8 @@
 }
 
 #profile-img {
-    border-radius: 50%;
-    border: 7px solid white;
+    border-radius: 5px;
+    border: 7px solid rgb(0, 0, 0);
     width: 100%;
     max-width: 400px;
     height: auto;
@@ -19,9 +19,7 @@
     transition: transform 0.3s;
 }
 
-#profile-img:hover {
-    transform: scale(1.05);
-}
+
 
 #home {
     text-align: center;
@@ -41,7 +39,7 @@
  color: orange;
     position: relative;
     display: inline-block;
-    background: linear-gradient(45deg, orange, orangered, orange);
+    background: linear-gradient(45deg, rgb(255, 255, 255), rgb(255, 0, 0), rgb(255, 0, 0));
     background-size: 200%;
     -webkit-background-clip: text;
     background-clip: text;
@@ -152,6 +150,11 @@
         font-size: 1.5rem;
 
     }
+    #profile-img{
+        height: 450px;
+        place-self: center;
+    }
+
 }
 
 @media (min-width: 1024px) {}
