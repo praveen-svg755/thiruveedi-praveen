@@ -10,14 +10,22 @@ const Skills = () => {
                     <h2>SKILLS</h2>
                     <div class="skills-container">
 
-                        <div class="skills">Photo Shop</div>
-                        <div class="skills">adobe </div>
-                        <div class="skills">Camera operating </div>
+                        <div class="skills">HTML</div>
+                        <div class="skills">CSS </div>
+                        <div class="skills">JS</div>
+                        <div class="skills">REACT</div>
+                        <div class="skills">C</div>
+                        <div class="skills">JAVA</div>
+                        <div class="skills">JAVA + DSA</div>
+                        <div class="skills">DATA BASE </div>
+                        <div class="skills">PYTHON</div>
+                        <div class="skills">PHOTO EDITING</div>
+                        <div class="skills">SPRING BOOT</div>
                         
 
                     </div>
 
-                    <a href="" download class="download-btn">Download Resume / CV</a>
+                    
 
 
                 </div>

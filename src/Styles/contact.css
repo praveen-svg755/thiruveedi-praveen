@@ -17,17 +17,17 @@
 }
 
 .social-media a {
-    color: #f97316;
+    color: #e0aaff;
     text-decoration: none;
     font-size: 1.2rem;
     padding: 0.5rem 1rem;
-    border: 2px solid #f97316;
+    border: 2px solid #e0aaff;
     border-radius: 5px;
     transition: all 0.3s ease;
 }
 
 .social-media a:hover {
-    background-color: #f97316;
+    background-color: #7400b7;
     color: #ffffff;
     transform: scale(1.1);
     box-shadow: 0 0 10px rgba(249, 115, 22, 0.5);
@@ -75,8 +75,8 @@ section h2 {
 }
 
 button {
-    background-color: #f97316;
-    color: #ffffff;
+    background-color: #e0aaff;
+    color: black;
     border: none;
     padding: 0.75rem 2rem;
     border-radius: 5px;
@@ -88,7 +88,7 @@ button {
 }
 
 button:hover {
-    background-color: #ea580c;
+    background-color: #8100cc;
     transform: scale(1.05);
     box-shadow: 0 0 12px rgba(249, 115, 22, 0.7);
 }

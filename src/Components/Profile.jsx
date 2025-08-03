@@ -11,24 +11,30 @@ const Profile = () => {
 
                 </div>
                 <section id="home">
-                    <p id="typing-text">Hi, I'm <span class="web-dev">THIRUVEEDI SANTHOSH</span></p>
+                    <p id="typing-text">Hi, I'm <span class="web-dev">THIRUVEEDI PRAVEEN</span></p>
 
 
                     <p class="scroll-eff">
                         I am a,
                         <span>
-                            <span>UI/UX DESIGINER</span>
+                            <span>WEB DEVELOPER</span>
                             <span>GRAPHIC DESIGINER</span>
-                            <span>UI/UX DESIGINER</span>
-                            <span>THUMBNAIL DESIGNER</span>
-                            <span>SOUND ENGINEERING</span>
+                             <span>JAVA BACKEND DEVELOPER</span>
+                            <span>FRONTEND DEVELOPER</span>
+                    
+                           
+                            
                         </span>
                     </p>
                 </section>
+               
             </div>
 
 
-           
+            <div className="download">
+                    <a href="./resume2.pdf" download class="download-btn">Download Resume / CV</a>
+                    <a href="https://wa.me/9440825680" class="download-btn">Contact</a>
+                </div>
 
         </div>
     )

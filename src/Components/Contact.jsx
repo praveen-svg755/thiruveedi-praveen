@@ -6,9 +6,10 @@ const Contact = () => {
             <div class="contact-div" id="contact">
                 <div class="social-media">
 
-                    <a href="https://www.linkedin.com/in/santhosh-thiruveedi-59932b292/" aria-label="LinkedIn">LinkedIn</a>
-                    <a href="mailto:santhoshthiruveedi@gmail.com" aria-label="LinkedIn">Email</a>
-                    <a href="https://wa.me/916301612938" aria-label="GitHub">Whats App</a>
+                    <a href="https://www.linkedin.com/in/praveen-thiruveedi-b355b22a3/" aria-label="LinkedIn">LinkedIn</a>
+                    <a href="mailto:thiruveedipraveen97@gmail.com" aria-label="LinkedIn">Email</a>
+                    <a href="https://wa.me/9440825680" aria-label="GitHub">Whats App</a>
+                      <a href="https://github.com/praveen-svg755" aria-label="GitHub">Git Hub</a>
                    
                 </div>
                 <section>

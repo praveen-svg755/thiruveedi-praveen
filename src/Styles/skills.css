@@ -12,16 +12,7 @@
          border-radius: 5px;
     }
 
-.download-btn{
-    color: white;
-    background: linear-gradient(to right, rgb(255, 0, 0), rgb(1, 97, 23));
 
-    
-    padding: 10px;
-    border-radius: 5px;
-    text-decoration: unset;
-   margin-top: 20px;
-}
 
 .about-me-div {
     display: flex;
@@ -30,7 +21,7 @@
     justify-content: flex-start;
     gap: 2rem;
     padding: 2rem;
-    color: rgb(255, 0, 0);
+    color: #e0aaff;
    
     border-radius: 10px;
     margin: 2rem auto;
