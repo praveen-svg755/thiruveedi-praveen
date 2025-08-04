@@ -32,14 +32,11 @@ const Skills = () => {
                 <div class="about">
                     <h2>ABOUT ME</h2>
                     <p class="about-me">
-                      Hello, my name is Thiruveedi Santhosh. I am 19 years old and currently pursuing a degree in Visual Communication at Andhra Loyola College, Vijayawada. From a young age, I have been passionate about creativity and design, which inspired me to build skills in both graphic design and video editing.
+                   My name is Thiruveedi Praveen, and I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at PSCMR College, now in my third year.<br/>
 
-Alongside my studies, I have been gaining practical experience as a Graphic and Video Designer at Maranatha Temple, where I create engaging visual content that connects with audiences and enhances communication. This role has helped me develop a strong foundation in design software, video editing tools, and creative storytelling.
+I have always been passionate about technology and problem-solving, which motivated me to choose CSE as my specialization. Over the past two years, I have built a strong foundation in programming languages and core computer science concepts.<br/>
 
-I am always eager to learn new techniques and stay updated with the latest trends in the field of media and communication. My goal is to grow as a creative professional, contribute innovative ideas, and build a career where I can combine my skills in visual communication, design, and digital media.
-
-I am from Ganguru, Vijayawada, and I believe my dedication, creativity, and enthusiasm will help me achieve success in the visual communication industry.
-                        
+I am currently looking for internship opportunities to enhance my skills and gain industry experience. I am from Vijayawada and am excited to contribute to innovative projects while continuing to learn and grow.<br/>
                     </p>
                 </div>
             </div>

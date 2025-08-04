@@ -19,8 +19,8 @@ const Profile = () => {
                         <span>
                             <span>WEB DEVELOPER</span>
                             <span>GRAPHIC DESIGINER</span>
-                             <span>JAVA BACKEND DEVELOPER</span>
-                            <span>FRONTEND DEVELOPER</span>
+                            <span>PROGRAMMER</span>
+                            <span>SOFTWARE DEVELOPER</span>
                     
                            
                             
@@ -32,7 +32,7 @@ const Profile = () => {
 
 
             <div className="download">
-                    <a href="./resume2.pdf" download class="download-btn">Download Resume / CV</a>
+                    <a href="../resume2.pdf" download class="download-btn">Download Resume / CV</a>
                     <a href="https://wa.me/9440825680" class="download-btn">Contact</a>
                 </div>
 

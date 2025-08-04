@@ -10,8 +10,10 @@
 }
 
 #profile-img {
-    border-radius: 50%;
-    border: 7px solid #e0aaff;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border: 5px solid #e0aaff;
+  
     width: 100%;
     max-width: 400px;
     height: auto;
@@ -111,10 +113,13 @@
 .download-btn{
     color: white;
     background: linear-gradient(to right, #ff0054, #5a189a);
-
+  border: #e0aaff 1px solid;
+  
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
     
     padding: 10px;
-    border-radius: 5px;
+    
     text-decoration: unset;
    margin-top: 20px;
   width: 300px;
